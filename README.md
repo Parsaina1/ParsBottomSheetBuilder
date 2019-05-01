@@ -12,6 +12,6 @@ dependson :Design Support LIB
  
 #B4A Library
 
-
-<img src="https://github.com/Parsaina1/ParsBottomSheetBuilder/raw/master/ParsBottomSheetBuilder.gif" alt="ParsBottomSheetBuilder" style="width:128px;height:128px;">
+ 
+<img src="https://github.com/Parsaina1/ParsBottomSheetBuilder/raw/master/ParsBottomSheetBuilder.gif" alt="ParsBottomSheetBuilder">
 
